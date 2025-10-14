@@ -38,19 +38,16 @@ I'm a self-taught **PHP / Laravel Developer** building modern web apps and RESTf
 ---
 
 ### 📊 GitHub Stats
+
 <a href="#">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=roman-kyivskyi&show_icons=true&theme=tokyonight" />
-</a>
-&nbsp;&nbsp;
-<a href="#">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roman-kyivskyi&layout=compact&theme=tokyonight" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kievski-roman&layout=compact&theme=tokyonight" />
 </a>
 
 ---
 
 ### 🔥 GitHub Streak
 <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roman-kyivskyi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kievski-roman&theme=tokyonight" alt="GitHub Streak" />
 </a>
 
 ---

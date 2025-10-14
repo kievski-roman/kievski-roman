@@ -4,7 +4,7 @@ I'm a self-taught **PHP / Laravel Developer** building modern web apps and RESTf
 
 ---
 
-### 🌍 About me
+### 🌍 About me 
 * 💻  Working on pet-projects: **E-commerce** & **Booking CRM API**
 * 🧠  Learning: Advanced Laravel, Testing, Clean Architecture, js basics
 * 🎯  Goal: become a **Junior Laravel Developer** ready for production projects
